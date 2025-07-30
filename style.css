@@ -1,17 +1,31 @@
-<!DOCTYPE html>
-<html lang="pt-B">
-<head>
-  <meta charset="UTF-8">
-  <title>vídeo</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class="vídeo-box">
-    <iframe width="560" height="315"src="https//www.youtube.com/embed/kNjpalON82E&quot; frmborder="0" allowfullscreen></iframe>
-    <div class="info">
-     <h3>titulo<h3>
-     <p>descrição breve do vídeo.</p>
-     </h3><div>
-  </div>
-  </body>      
-</html>
+body {
+font-family: Arial, sans-serif;
+background:□#0f0f0f;
+padding: 20px;
+text-align: center;
+}
+
+.video-box {
+{ background: □#a62121;
+ padding:10px;
+border-radius:6px;
+max-width: 560px;
+margin: auto;
+box-shadow: θ 2px 5px □rgba(0,0,0,0.1);
+}
+video {
+width:100%;
+ border-radius: 4px;
+}
+.info {
+margin-top: 8px
+{
+info. h3 {
+font-size: 16px;
+magin: 4px 0;
+color: #0002f6;
+}
+info: p {
+font-size: 13px;
+color: #e
+}
